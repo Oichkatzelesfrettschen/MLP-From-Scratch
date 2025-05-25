@@ -12,7 +12,7 @@ A C++ implementation of a Multilayer Perceptron (MLP) neural network using Eigen
 
 ## Prerequisites
 
-- C++11 or later
+- C++23 or later
 - [Eigen](https://eigen.tuxfamily.org/) (header-only C++ library for linear algebra)
 
 ## Getting Started
